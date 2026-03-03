@@ -10,7 +10,6 @@
 * 📚 Currently studying at the **Aristotle University of Thessaloniki**.
 * 🛠️ Focused on mastering **C++** and high-performance computing.
 * 📊 Analyzing complex datasets with **Python** (Pandas/Matplotlib).
-* 🧪 Experienced in **Quality Control** and industrial processes.
 
 ---
 
@@ -19,7 +18,7 @@
 **Languages:**
 * 💻 **C++** (Core Focus)
 * 🐍 **Python** (Data Analysis & Scripting)
-* ⚙️ **C** (Embedded Systems)
+* ⚙️ **C** (Efficient memory management & data structures)
 * 🗄️ **SQL** (Database Management)
 
 **Tools & Technologies:**

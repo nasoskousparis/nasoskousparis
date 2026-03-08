@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [ΤΟ ΟΝΟΜΑ ΣΟΥ]!
+# 👋 Hi there, I'm Nasos!
 
 ### 🎓 Electrical & Computer Engineering Student @ AUTH
 🦅 **IT Department Member** of **EESTEC LC Thessaloniki**.  
